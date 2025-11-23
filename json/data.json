@@ -1,2 +1,16 @@
 {
+  "monuments": [
+    {
+      "id": "eiffel_tower",
+      "name": "Eiffel Tower",
+      "description": "The Eiffel Tower is a wrought-iron lattice tower in Paris, France, and one of the most iconic structures in the world.",
+      "videoUrl": "https://raw.githubusercontent.com/Kingobhaisahb/AR-tour-guide/main/videos/EIFFEL%20TOWER.mp4"
+    },
+    {
+      "id": "taj_mahal",
+      "name": "Taj Mahal",
+      "description": "The Taj Mahal is an ivory-white marble mausoleum located in Agra, India, built by Mughal Emperor Shah Jahan.",
+      "videoUrl": "https://raw.githubusercontent.com/Kingobhaisahb/AR-tour-guide/main/videos/TAJ%20MAHAL%20.mp4"
+    }
+  ]
 }
